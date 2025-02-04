@@ -3,7 +3,7 @@
 <!--
 **MANUBOTISREENIVASULU/MANUBOTISREENIVASULU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi 👋, I'm Manuboti Sreenivasulu</h1>
+<h1 align="center">Hi 👋, I'm ManubotiSreenivasulu</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://pin.it/BqG3dnbuU">
