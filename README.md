@@ -8,6 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manubotisreenivasulu&label=Profile%20views&color=0e75b6&style=flat" alt="manubotisreenivasulu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manubotisreenivasulu" alt="manubotisreenivasulu" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/MANUBOTISREENIVASULU](https://github.com/MANUBOTISREENIVASULU)
+
+
+- ⚡ Fun fact **I Think I am Funny**
 
 - 📫 How to reach me **manubotisreenivasulu@gmail.com**
 
